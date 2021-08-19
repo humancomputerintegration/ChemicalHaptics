@@ -46,7 +46,7 @@ Alternatively, you can cast silicone with velcro on the sleeve edges. This can b
 
 Anonymized data is included in the folder "study_data". You can read more about how to interpret the data in [Processing TCATA Data](./study_data/README.md).
 
-Additionally, if you'd like to replicate our temporal check all that apply study, you can use the web app we built which is available in a separate repo here: [TCATA Web App]().
+Additionally, if you'd like to replicate our temporal check all that apply study, you can use the web app we built which is available in a separate repo here: [TCATA Web App](https://github.com/xjasminelu/tcata_chemhaptics).
 
 ## Citation
 

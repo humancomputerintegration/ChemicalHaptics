@@ -22,4 +22,8 @@ Phase - Which section of the trial this was during (ON_TCATA - chemical being ap
 
 
 
-At the end of each file is an entry of which was the dominant sensation chosen for the trial. 
+At the end of each file is an entry of which was the dominant sensation chosen for the trial.
+
+
+
+You can access the software used to run this study and generate these data files here: https://github.com/xjasminelu/tcata_chemhaptics 
