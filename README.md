@@ -2,6 +2,8 @@
 
 This is the repository for silicone mold 3D Print files, hardware schematics, and code used in the wearable device of "**Chemical Haptics: Rendering Haptic Sensations via Topical Stimulants**" paper (ACM UIST2021). Additionally, we've included the anonymized data from our user study tracking participants' perceived sensations as chemicals were applied and then removed.
 
+![devices overview](./images/devices_overview.png)
+
 ## Hardware
 
 Below are the specific components used in our device design, but these can be easily replaced by similar components.
@@ -42,7 +44,7 @@ Alternatively, you can cast silicone with velcro on the sleeve edges. This can b
 
 ## Study 1 Data: How Chemicals Feel
 
-
+Anonymized 
 
 ## Citation
 
