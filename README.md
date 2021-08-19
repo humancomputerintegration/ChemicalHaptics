@@ -26,7 +26,7 @@ Below are the specific components used in our device design, but these can be ea
 
 ## Silicone Mold Design
 
-In this repo we include the STL files of our 3D printed molds that were used to cast the silicone pieces used in our wearable device. The channels in the silicone can be designed in any way and take variable shape. Below you'll find more specific guidelines for using these silicone pieces.
+In this repo we include the STL files of our [3D printed molds](./3D_models) that were used to cast the silicone pieces used in our wearable device. The channels in the silicone can be designed in any way and take variable shape. We used Dragon Skin FX-Pro Silicone, but any silicone of similar hardness can be used. Below you'll find more specific guidelines for using these silicone pieces.
 
 ### Central to Peripheral Patch
 
@@ -44,7 +44,9 @@ Alternatively, you can cast silicone with velcro on the sleeve edges. This can b
 
 ## Study 1 Data: How Chemicals Feel
 
-Anonymized 
+Anonymized data is included in the folder "study_data". You can read more about how to interpret the data in [Processing TCATA Data](./study_data/README.md).
+
+Additionally, if you'd like to replicate our temporal check all that apply study, you can use the web app we built which is available in a separate repo here: [TCATA Web App]().
 
 ## Citation
 
