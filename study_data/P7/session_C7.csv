@@ -1,0 +1,26 @@
+Time,Attribute,State,Phase
+62634,,, START
+144640,cool,1,ON_TCATA
+148697,tingling,1,ON_TCATA
+218527,tingling,0,ON_TCATA
+240551,burning,1,ON_TCATA
+246791, increasing sensation,1,ON_TCATA
+327190,burning,0,ON_TCATA
+328567, increasing sensation,0,ON_TCATA
+329102, increasing sensation,1,ON_TCATA
+329865,warm,1,ON_TCATA
+332494,tingling,1,ON_TCATA
+396680,tingling,0,ON_TCATA
+398414, increasing sensation,0,ON_TCATA
+465256,cool,0,ON_TCATA
+757534,,, S_STOPPED
+760092,,, START
+812505,stinging,1,OFF_TCATA
+812508,tingling,1,OFF_TCATA
+813134,stinging,0,OFF_TCATA
+1079137,tingling,0,OFF_TCATA
+1194030,warm,0,OFF_TCATA
+1237405,warm,1,OFF_TCATA
+1244152,warm,0,OFF_TCATA
+1579655,,, S_STOPPED
+,cool,,DOM_SENSE

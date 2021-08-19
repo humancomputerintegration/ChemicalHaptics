@@ -1,0 +1,9 @@
+Time,Attribute,State,Phase
+110575,,, START
+431627,cool,1,ON_TCATA
+560666,tingling,1,ON_TCATA
+712094,,, S_STOPPED
+731438,,, START
+950546,tingling,0,OFF_TCATA
+1333206,,, S_STOPPED
+,cool,,DOM_SENSE

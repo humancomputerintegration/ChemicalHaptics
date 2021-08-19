@@ -1,0 +1,18 @@
+[pedrolopes@opal3 data]$ vim session_B5SAN.csv 
+
+Time,Attribute,State,Phase
+106359,,, START
+138064,tingling,1,ON_TCATA
+142182,tingling,0,ON_TCATA
+146101,warm,1,ON_TCATA
+162989,cool,1,ON_TCATA
+164394,tingling,1,ON_TCATA
+211353,warm,0,ON_TCATA
+246995,cool,0,ON_TCATA
+267576,itching,1,ON_TCATA
+322392,itching,0,ON_TCATA
+714855,,, S_STOPPED
+715591,,, START
+823476,tingling,0,OFF_TCATA
+1485845,,, S_STOPPED
+,warm,,DOM_SENSE

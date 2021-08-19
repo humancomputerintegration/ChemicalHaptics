@@ -1,0 +1,13 @@
+session_B1MEN.csv  session_B2LID.csv  session_B3CIM.csv  
+[pedrolopes@opal3 data]$ vim session_B3CIM.csv
+
+Time,Attribute,State,Phase
+210353,,, START
+304207,stinging,1,ON_TCATA
+378698,tingling,1,ON_TCATA
+535921,tingling,0,ON_TCATA
+853774,,, S_STOPPED
+855003,,, START
+899139,stinging,0,OFF_TCATA
+1476015,,, S_STOPPED
+,tingling,,DOM_SENSE

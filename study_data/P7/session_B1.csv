@@ -1,0 +1,12 @@
+[pedrolopes@opal3 data]$ vim session_B1MEN.csv 
+
+Time,Attribute,State,Phase
+607576,,, START
+650132,cool,1,ON_TCATA
+891394,burning,1,ON_TCATA
+994596,burning,0,ON_TCATA
+1348810,,, S_STOPPED
+1349774,,, START
+1460610,cool,0,OFF_TCATA
+2003282,,, S_STOPPED
+,cool,,DOM_SENSE

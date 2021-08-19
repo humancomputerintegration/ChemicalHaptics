@@ -1,0 +1,7 @@
+Time,Attribute,State,Phase
+338928,,, START
+711626,burning,1,ON_TCATA
+941157,,, S_STOPPED
+956609,,, START
+1559515,,, S_STOPPED
+,burning,,DOM_SENSE

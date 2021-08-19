@@ -1,0 +1,10 @@
+Time,Attribute,State,Phase
+87830,,, START
+295738, decreasing sensation,1,ON_TCATA
+340436,numbness,1,ON_TCATA
+704612,,, S_STOPPED
+705887,,, START
+1008577,numbness,0,OFF_TCATA
+1238032, decreasing sensation,0,OFF_TCATA
+1425916,,, S_STOPPED
+,numbness,,DOM_SENSE

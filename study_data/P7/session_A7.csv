@@ -1,0 +1,24 @@
+Time,Attribute,State,Phase
+200710,,, START
+226167,warm,1,ON_TCATA
+264032,stinging,1,ON_TCATA
+281993,stinging,0,ON_TCATA
+285896,itching,1,ON_TCATA
+305328,itching,0,ON_TCATA
+340335,burning,1,ON_TCATA
+405560,burning,0,ON_TCATA
+462279,painful,1,ON_TCATA
+471225, increasing sensation,1,ON_TCATA
+472128,painful,0,ON_TCATA
+498471, increasing sensation,0,ON_TCATA
+828763,,, S_STOPPED
+829686,,, START
+925252,warm,0,OFF_TCATA
+1156096,warm,1,OFF_TCATA
+1157272,stinging,1,OFF_TCATA
+1170287, increasing sensation,1,OFF_TCATA
+1171967,stinging,0,OFF_TCATA
+1201690, increasing sensation,0,OFF_TCATA
+1248851,warm,0,OFF_TCATA
+1446052,,, S_STOPPED
+,warm,,DOM_SENSE

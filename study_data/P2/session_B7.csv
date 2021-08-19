@@ -1,0 +1,11 @@
+Time,Attribute,State,Phase
+374752,,, START
+762923,tingling,1,ON_TCATA
+865282,stinging,1,ON_TCATA
+892785,painful,1,ON_TCATA
+936282,burning,1,ON_TCATA
+976565,,, S_STOPPED
+1001176,,, START
+1060722,tingling,0,OFF_TCATA
+1602190,,, S_STOPPED
+,burning,,DOM_SENSE

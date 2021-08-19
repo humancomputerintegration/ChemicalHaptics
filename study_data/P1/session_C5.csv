@@ -1,0 +1,12 @@
+Time,Attribute,State,Phase
+80975,,, START
+129898,cool,1,ON_TCATA
+362845,stinging,1,ON_TCATA
+370801, increasing sensation,1,ON_TCATA
+684213,,, S_STOPPED
+706977,,, START
+894817,stinging,0,OFF_TCATA
+905136,cool,0,OFF_TCATA
+908009, increasing sensation,0,OFF_TCATA
+1312295,,, S_STOPPED
+,cool,,DOM_SENSE
